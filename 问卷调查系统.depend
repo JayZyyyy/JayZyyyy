@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1618826361 source:c:\users\mmmmj_mua\desktop\问卷调查系统\问卷调查系统\main.c
+	"head.h"
+
+1619013830 source:c:\users\mmmmj_mua\desktop\问卷调查系统\问卷调查系统\screen.c
+	"head.h"
+
+1619011575 c:\users\mmmmj_mua\desktop\问卷调查系统\问卷调查系统\head.h
+	<stdio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+
+1619012530 source:c:\users\mmmmj_mua\desktop\问卷调查系统\问卷调查系统\manage_port.c
+	"head.h"
+
+1619013807 source:c:\users\mmmmj_mua\desktop\问卷调查系统\问卷调查系统\user_port.c
+	"head.h"
+
+1618889243 source:c:\users\mmmmj_mua\desktop\问卷调查系统\问卷调查系统\load.c
+	"head.h"
+
+1618824978 source:c:\users\mmmmj_mua\desktop\问卷调查系统\问卷调查系统\student_console.c
+	"head.h"
+
+1619270401 source:c:\users\mmmmj_mua\desktop\问卷调查\load.c
+	"head.h"
+
+1619270794 c:\users\mmmmj_mua\desktop\问卷调查\head.h
+	<stdio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+
+1619053748 source:c:\users\mmmmj_mua\desktop\问卷调查\main.c
+	"head.h"
+
+1619172870 source:c:\users\mmmmj_mua\desktop\问卷调查\manage_port.c
+	"head.h"
+
+1619270828 source:c:\users\mmmmj_mua\desktop\问卷调查\screen.c
+	"head.h"
+
+1619270586 source:c:\users\mmmmj_mua\desktop\问卷调查\user_port.c
+	"head.h"
+
